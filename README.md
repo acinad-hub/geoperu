@@ -19,8 +19,9 @@ Para utilizar estos datos en QGIS, sigue estos pasos:
    ```
 5. Haz clic en `Añadir` y luego en `Cerrar`.
 
-## Fuentes de datos: datosabiertos.gob.pe
+## Fuentes de datos: opendatasoft y datosabiertos.gob.pe
 
--   [Límites departamentales](https://datosabiertos.gob.pe/dataset/limites-departamentales)
--   [Límites provinciales](https://datosabiertos.gob.pe/dataset/resource/ac9bc756-e41f-4c08-b4a3-a168a8874e9)
--   [Límites distritales](https://datosabiertos.gob.pe/dataset/limites-departamentale)
+- [Países](https://public.opendatasoft.com/explore/dataset/country_shapes/information/) 
+- [Límites departamentales](https://datosabiertos.gob.pe/dataset/limites-departamentales)
+- [Límites provinciales](https://datosabiertos.gob.pe/dataset/resource/ac9bc756-e41f-4c08-b4a3-a168a8874e9)
+- [Límites distritales](https://datosabiertos.gob.pe/dataset/limites-departamentale)

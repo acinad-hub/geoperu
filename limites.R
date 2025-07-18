@@ -4,6 +4,7 @@ library(sf)
 # 1. ENTRADAS                                                               ####
 #------------------------------------------------------------------------------#
 
+URL_GLB = "https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/country_shapes/exports/geojson?lang=en&timezone=America%2FBogota"
 URL_DEP = "https://datosabiertos.gob.pe/sites/default/files/DEPARTAMENTOS_LIMITES.zip"
 URL_PRO = "https://datosabiertos.gob.pe/sites/default/files/PROVINCIALES_LIMITES.zip"
 URL_DIS = "https://datosabiertos.gob.pe/sites/default/files/DISTRITOS_LIMITES.zip"
@@ -21,6 +22,7 @@ if (!dir.exists("temp")) {
 download.file(URL_DEP, "temp/DEPARTAMENTOS_LIMITES.zip", mode = "wb")
 download.file(URL_PRO, "temp/PROVINCIALES_LIMITES.zip", mode = "wb")
 download.file(URL_DIS, "temp/DISTRITOS_LIMITES.zip", mode = "wb")
+download.file(URL_GLB, "data/paises.geojson", mode = "wb")
 
 # Descomprimir archivos ZIP
 unzip("temp/DEPARTAMENTOS_LIMITES.zip", exdir = "temp")
