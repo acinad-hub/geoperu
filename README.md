@@ -13,10 +13,9 @@ Para utilizar estos datos en QGIS, sigue estos pasos:
 1. Abre QGIS 
 2. Ve a `Capa` \> `Añadir capa` \> `Añadir capa vectorial...` 
 3. En **Tipo de fuente** selecciona `Protocolo: HTTP(S), cloud, etc.`.
-4. En **URI** ingresa la siguiente RAW del geojson que quieres cargar:
+4. En **URI** ingresa la siguiente RAW del geojson que quieres cargar. Ejemplo:
    ```
-   Ejemplo:
-   https://raw.githubusercontent.com/acinad-hub/geoperu/data/departamentos.geojson
+   https://raw.githubusercontent.com/acinad-hub/geoperu/refs/heads/main/data/pasco/dist_de_oxapampa.geojson
    ```
 5. Haz clic en `Añadir` y luego en `Cerrar`.
 
