@@ -1,0 +1,76 @@
+region,name,item,code,color
+Amazonía o selva baja,Bosque inundable de palmeras,3.1.1,Bi-pal,#005CE6
+Amazonía o selva baja,Herbazal hidrofítico,3.1.2,Hehi,#267300
+Amazonía o selva baja,Bosque de llanura meándrica,3.1.3,Bllm,#AEF1B0
+Amazonía o selva baja,Bosque de terraza baja,3.1.4,Btb,#ABCD66
+Amazonía o selva baja,Bosque de terraza inundable por agua negra,3.1.5,Bti-an,#A3FF73
+Amazonía o selva baja,Vegetación de isla,3.1.6,Is,#AEF1B0
+Amazonía o selva baja,Sabana hidrofítica con palmeras,3.1.7,Sahi-pal,#267300
+Amazonía o selva baja,Vegetación esclerófila de arena blanca,3.1.8,Ve-ab,#FFEBAF
+Amazonía o selva baja,Bosque de terraza alta,3.1.9,Bta,#A8A800
+Amazonía o selva baja,Bosque de colina baja,3.1.10,Bcb,#98E600
+Amazonía o selva baja,Bosque de colina alta,3.1.11,Bca,#00734C
+Amazonía o selva baja,Bosque de montaña,3.1.12,Bm,#267300
+Amazonía o selva baja,Bosque semideciduo de montaña,3.1.13,Bsdm,#AEF1B0
+Amazonía o selva baja,Pacal,3.1.14,Pac,#FFFF73
+Amazonía o selva baja,Bosque de terraza baja con paca,3.1.15.a,Btb-pa,#267300
+Amazonía o selva baja,Bosque de terraza alta con paca,3.1.15.b,Bta-pa,#D1FF73
+Amazonía o selva baja,Bosque de colina baja con paca,3.1.15.c,Bcb-pa,#E6E600
+Amazonía o selva baja,Bosque de colina alta con paca,3.1.15.d,Bca-pa,#FFFFBE
+Amazonía o selva baja,Bosque de montaña con paca,3.1.15.e,Bm-pa,#FFFFBE
+Amazonía o selva baja,Bosque de terraza alta con castaña,3.1.16.a,Bta-cas,#898944
+Amazonía o selva baja,Bosque de terraza baja con castaña,3.1.16.b,Btb-cas,#898944
+Amazonía o selva baja,Bosque de colina baja con castaña,3.1.16.c,Bcb-cas,#898944
+Amazonía o selva baja,Bosque de colina baja con shiringa,3.1.17,Bcb-Shi,#CDF57A
+Amazonía o selva baja,Bosque de colina alta del Divisor,3.1.18,Bca-D,#00734C
+Yunga o selva alta,Bosque inundable de palmeras basimontano,3.2.1,Bi-pa-ba,#005CE6
+Yunga o selva alta,Bosque de terraza baja basimontano,3.2.2,Btb-ba,#ABCD66
+Yunga o selva alta,Bosque de terraza alta basimontano,3.2.3,Bta-ba,#89CD66
+Yunga o selva alta,Bosque de montaña basimontano,3.2.4,Bm-ba,#89CD66
+Yunga o selva alta,Bosque de montaña basimontano con paca,3.2.5,Bm-ba-pa,#E6E607
+Yunga o selva alta,Bosque de montaña montano,3.2.6,Bm-mo,#A5F57A
+Yunga o selva alta,Bosque de palmeras de montaña montano,3.2.7,Bpm-mo,#D3FFBE
+Yunga o selva alta,Matorral esclerófilo de montaña montano,3.2.8,Mae-mo,#895A44
+Yunga o selva alta,Bosque de montaña altimontano,3.2.9,Bm-al,#B4D79E
+Yunga o selva alta,Matorral arbustivo altimontano,3.2.10,Ma-al,#894444
+Yunga o selva alta,Bosque xérico interandino,3.2.11,Bxe-in,#D7C29E
+Yunga o selva alta,Sabana xérica interandina,3.2.12,Saxe-in,#FFAA00
+Costa,Manglar,3.3.1,Mg,#4C0073
+Costa,Bosque seco tipo sabana,3.3.2,Bss,#FFEABE
+Costa,Bosque seco ribereño,3.3.3,Bsr,#38A800
+Costa,Bosque seco de piedemonte,3.3.4,Bspm,#FFD37F
+Costa,Bosque seco de lomada,3.3.5,Bsl,#D69DBC
+Costa,Bosque seco de colina baja,3.3.6,Bscb,#A87000
+Costa,Bosque seco de colina alta,3.3.7,Bsca,#DE9E66
+Costa,Bosque seco de montaña,3.3.8,Bsm,#D68589
+Costa,Bosque subhúmedo de montaña,3.3.9,Bshm,#CDAA66
+Costa,Loma,3.3.10,Lo,#730000
+Costa,Tillandsial,3.3.11,Til,#728944
+Andina,Bosque relicto mesoandino,3.4.1,Br-me,#66CDAB
+Andina,Bosque relicto mesoandino de coníferas,3.4.2,Br-me-co,#448970
+Andina,Bosque montano occidental andino,3.4.3,Bm-oca,#70A800
+Andina,Bosque relicto altoandino,3.4.4,Br-al,#448970
+Andina,Páramo,3.4.5,Para,#D7B09E
+Andina,Jalca,3.4.6,Jal,#FFA77F
+Andina,Pajonal andino,3.4.7,Pj,#FFFF00
+Andina,Bofedal,3.4.8,Bo,#C500FF
+Andina,Matorral arbustivo,3.4.9,Ma,#734C00
+Andina,Cardonal,3.4.10,Car,#D7C29E
+Antrópico,Plantación Forestal,4.1,PF,#70A800
+Antrópico,Agricultura costera y andina,4.2,Agri,#F0B0CF
+Antrópico,Áreas de no bosque amazónico,4.3,Ano-ba,#FE72DE
+Otras,Área altoandina con escasa y sin vegetación,5.1,Esv,#B2B2B2
+Otras,Glaciar,5.2,Gla,#FFFFFF
+Otras,Banco de arena,5.3,Ba,#FFEBAF
+Otras,Desierto costero,5.4,Dc,#FFEBBE
+Otras,Humedal costero,5.5,Hc,#00A9E6
+Otras,Albúfera,5.6,Albu,#0070FF
+Otras,Centro minero,5.7,Mi,#E8BEFF
+Otras,Lagunas, lagos y cochas,5.8,L/Co,#97DBF2
+Otras,Río,5.9,R,#BEE8FF
+Otras,Estero,5.10,Est,#00C5FF
+Otras,Infraestructura,5.11,Infra,#FF0000
+Otras,Represa,5.12,Re,#BED2FF
+Otras,Área urbana,5.13,U,#FFFFFF
+Otras,Canal internacional,5.14,Ci,#004DA8
+Otras,Estuario de virilla,5.15,Ev,#EFE4BE
