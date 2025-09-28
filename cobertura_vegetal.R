@@ -42,7 +42,6 @@ if (length(shp_files) == 0) {
 }
 
 cobertura_vegetal <- st_read(shp_files)
-departamentos <- st_read(URL_DEPART)
 cobertura_descrip <- read.csv(DLT_COBVEG)
 
 # %% 4. PROCESAMIENTO ---------------------------------------------------------#
@@ -85,9 +84,13 @@ table(st_geometry_type(cobveg_valid))
 
 # %% 3. GUARDAR DATOS ---------------------------------------------------------#
 
+## Select relevant columns
+cobveg_last <- cobveg_valid |> 
+  dplyr::select(code = Simbolo, geometry)
+
 sqlite_file <- file.path(td, "cobveg_minam.sqlite")
-st_write(cobveg_valid, sqlite_file, layer = "cobveg",
-         driver = "SQLite", delete_layer = TRUE)
+st_write(cobveg_last, sqlite_file, layer = "cobveg",
+         driver = "SQLite", delete_layer = TRUE, dataset_options = "SPATIALITE=YES")
 st_write(cobertura_descrip, sqlite_file, layer = "cobveg_descrip",
          driver = "SQLite", delete_layer = TRUE)
 
