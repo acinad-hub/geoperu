@@ -7,7 +7,6 @@ library(future.apply)
 # %% 1. ENTRADAS --------------------------------------------------------------#
 
 URL_COBVEG = "http://geoservidor.minam.gob.pe/wp-content/uploads/2017/06/mapa_cobertura_vegetal_2015.zip"
-URL_COBVEG2 = "0By1rYqKYtPp5RUZpdHo4OHNvQkE"
 URL_DEPART = "https://raw.githubusercontent.com/acinad-hub/geoperu/refs/heads/main/data/departamentos.geojson"
 DLT_COBVEG = "data/cobveg_descrip.csv"
 
@@ -90,9 +89,9 @@ cobveg_last <- cobveg_valid |>
 
 sqlite_file <- file.path(td, "cobveg_minam.sqlite")
 st_write(cobveg_last, sqlite_file, layer = "cobveg",
-         driver = "SQLite", delete_layer = TRUE, dataset_options = "SPATIALITE=YES")
+         driver = "SQLite", dataset_options = "SPATIALITE=YES")
 st_write(cobertura_descrip, sqlite_file, layer = "cobveg_descrip",
-         driver = "SQLite", delete_layer = TRUE)
+         driver = "SQLite")
 
 # Crear zip del archivo SQLite
 old_wd <- getwd()
