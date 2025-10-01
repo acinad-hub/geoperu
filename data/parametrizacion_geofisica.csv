@@ -1,0 +1,1211 @@
+class,arid,airport,condition,parameter,type,season,value
+11,"-","-",normal,albedo,NLCD16,winter without snow,0.1
+12,"-","-",normal,albedo,NLCD16,winter without snow,0.7
+21,"-","-",normal,albedo,NLCD16,winter without snow,0.18
+22,"-","-",normal,albedo,NLCD16,winter without snow,0.18
+23,"-","-",normal,albedo,NLCD16,winter without snow,0.18
+24,"-","-",normal,albedo,NLCD16,winter without snow,0.18
+31,yes,"-",normal,albedo,NLCD16,winter without snow,0.2
+31,no,"-",normal,albedo,NLCD16,winter without snow,0.2
+32,"-","-",normal,albedo,NLCD16,winter without snow,0.14
+41,"-","-",normal,albedo,NLCD16,winter without snow,0.17
+42,"-","-",normal,albedo,NLCD16,winter without snow,0.12
+43,"-","-",normal,albedo,NLCD16,winter without snow,0.14
+51,yes,"-",normal,albedo,NLCD16,winter without snow,0.25
+51,no,"-",normal,albedo,NLCD16,winter without snow,0.18
+52,yes,"-",normal,albedo,NLCD16,winter without snow,0.25
+52,no,"-",normal,albedo,NLCD16,winter without snow,0.18
+71,"-","-",normal,albedo,NLCD16,winter without snow,0.2
+72,"-","-",normal,albedo,NLCD16,winter without snow,0.2
+73,"-","-",normal,albedo,NLCD16,winter without snow,0.2
+74,"-","-",normal,albedo,NLCD16,winter without snow,0.2
+81,"-","-",normal,albedo,NLCD16,winter without snow,0.18
+82,"-","-",normal,albedo,NLCD16,winter without snow,0.18
+90,"-","-",normal,albedo,NLCD16,winter without snow,0.14
+91,"-","-",normal,albedo,NLCD16,winter without snow,0.14
+92,"-","-",normal,albedo,NLCD16,winter without snow,0.14
+93,"-","-",normal,albedo,NLCD16,winter without snow,0.14
+94,"-","-",normal,albedo,NLCD16,winter without snow,0.14
+95,"-","-",normal,albedo,NLCD16,winter without snow,0.14
+96,"-","-",normal,albedo,NLCD16,winter without snow,0.14
+97,"-","-",normal,albedo,NLCD16,winter without snow,0.14
+98,"-","-",normal,albedo,NLCD16,winter without snow,0.14
+99,"-","-",normal,albedo,NLCD16,winter without snow,0.14
+11,"-","-",normal,albedo,NLCD16,winter with snow,0.1
+12,"-","-",normal,albedo,NLCD16,winter with snow,0.7
+21,"-","-",normal,albedo,NLCD16,winter with snow,0.6
+22,"-","-",normal,albedo,NLCD16,winter with snow,0.45
+23,"-","-",normal,albedo,NLCD16,winter with snow,0.18
+24,"-","-",normal,albedo,NLCD16,winter with snow,0.25
+31,yes,"-",normal,albedo,NLCD16,winter with snow,
+31,no,"-",normal,albedo,NLCD16,winter with snow,0.6
+32,"-","-",normal,albedo,NLCD16,winter with snow,0.3
+41,"-","-",normal,albedo,NLCD16,winter with snow,0.5
+42,"-","-",normal,albedo,NLCD16,winter with snow,0.35
+43,"-","-",normal,albedo,NLCD16,winter with snow,0.42
+51,yes,"-",normal,albedo,NLCD16,winter with snow,
+51,no,"-",normal,albedo,NLCD16,winter with snow,0.5
+52,yes,"-",normal,albedo,NLCD16,winter with snow,
+52,no,"-",normal,albedo,NLCD16,winter with snow,0.5
+71,"-","-",normal,albedo,NLCD16,winter with snow,0.6
+72,"-","-",normal,albedo,NLCD16,winter with snow,0.6
+73,"-","-",normal,albedo,NLCD16,winter with snow,0.6
+74,"-","-",normal,albedo,NLCD16,winter with snow,0.6
+81,"-","-",normal,albedo,NLCD16,winter with snow,0.6
+82,"-","-",normal,albedo,NLCD16,winter with snow,0.6
+90,"-","-",normal,albedo,NLCD16,winter with snow,0.3
+91,"-","-",normal,albedo,NLCD16,winter with snow,0.3
+92,"-","-",normal,albedo,NLCD16,winter with snow,0.3
+93,"-","-",normal,albedo,NLCD16,winter with snow,0.3
+94,"-","-",normal,albedo,NLCD16,winter with snow,0.3
+95,"-","-",normal,albedo,NLCD16,winter with snow,0.3
+96,"-","-",normal,albedo,NLCD16,winter with snow,0.3
+97,"-","-",normal,albedo,NLCD16,winter with snow,0.3
+98,"-","-",normal,albedo,NLCD16,winter with snow,0.3
+99,"-","-",normal,albedo,NLCD16,winter with snow,0.3
+11,"-","-",normal,albedo,NLCD16,spring,0.1
+12,"-","-",normal,albedo,NLCD16,spring,0.6
+21,"-","-",normal,albedo,NLCD16,spring,0.15
+22,"-","-",normal,albedo,NLCD16,spring,0.16
+23,"-","-",normal,albedo,NLCD16,spring,0.18
+24,"-","-",normal,albedo,NLCD16,spring,0.18
+31,yes,"-",normal,albedo,NLCD16,spring,0.2
+31,no,"-",normal,albedo,NLCD16,spring,0.2
+32,"-","-",normal,albedo,NLCD16,spring,0.14
+41,"-","-",normal,albedo,NLCD16,spring,0.16
+42,"-","-",normal,albedo,NLCD16,spring,0.12
+43,"-","-",normal,albedo,NLCD16,spring,0.14
+51,yes,"-",normal,albedo,NLCD16,spring,0.25
+51,no,"-",normal,albedo,NLCD16,spring,0.18
+52,yes,"-",normal,albedo,NLCD16,spring,0.25
+52,no,"-",normal,albedo,NLCD16,spring,0.18
+71,"-","-",normal,albedo,NLCD16,spring,0.18
+72,"-","-",normal,albedo,NLCD16,spring,0.18
+73,"-","-",normal,albedo,NLCD16,spring,0.18
+74,"-","-",normal,albedo,NLCD16,spring,0.18
+81,"-","-",normal,albedo,NLCD16,spring,0.14
+82,"-","-",normal,albedo,NLCD16,spring,0.14
+90,"-","-",normal,albedo,NLCD16,spring,0.14
+91,"-","-",normal,albedo,NLCD16,spring,0.14
+92,"-","-",normal,albedo,NLCD16,spring,0.14
+93,"-","-",normal,albedo,NLCD16,spring,0.14
+94,"-","-",normal,albedo,NLCD16,spring,0.14
+95,"-","-",normal,albedo,NLCD16,spring,0.14
+96,"-","-",normal,albedo,NLCD16,spring,0.14
+97,"-","-",normal,albedo,NLCD16,spring,0.14
+98,"-","-",normal,albedo,NLCD16,spring,0.14
+99,"-","-",normal,albedo,NLCD16,spring,0.14
+11,"-","-",normal,albedo,NLCD16,summer,0.1
+12,"-","-",normal,albedo,NLCD16,summer,0.6
+21,"-","-",normal,albedo,NLCD16,summer,0.15
+22,"-","-",normal,albedo,NLCD16,summer,0.16
+23,"-","-",normal,albedo,NLCD16,summer,0.18
+24,"-","-",normal,albedo,NLCD16,summer,0.18
+31,yes,"-",normal,albedo,NLCD16,summer,0.2
+31,no,"-",normal,albedo,NLCD16,summer,0.2
+32,"-","-",normal,albedo,NLCD16,summer,0.14
+41,"-","-",normal,albedo,NLCD16,summer,0.16
+42,"-","-",normal,albedo,NLCD16,summer,0.12
+43,"-","-",normal,albedo,NLCD16,summer,0.14
+51,yes,"-",normal,albedo,NLCD16,summer,0.25
+51,no,"-",normal,albedo,NLCD16,summer,0.18
+52,yes,"-",normal,albedo,NLCD16,summer,0.25
+52,no,"-",normal,albedo,NLCD16,summer,0.18
+71,"-","-",normal,albedo,NLCD16,summer,0.18
+72,"-","-",normal,albedo,NLCD16,summer,0.18
+73,"-","-",normal,albedo,NLCD16,summer,0.18
+74,"-","-",normal,albedo,NLCD16,summer,0.18
+81,"-","-",normal,albedo,NLCD16,summer,0.2
+82,"-","-",normal,albedo,NLCD16,summer,0.2
+90,"-","-",normal,albedo,NLCD16,summer,0.14
+91,"-","-",normal,albedo,NLCD16,summer,0.14
+92,"-","-",normal,albedo,NLCD16,summer,0.14
+93,"-","-",normal,albedo,NLCD16,summer,0.14
+94,"-","-",normal,albedo,NLCD16,summer,0.14
+95,"-","-",normal,albedo,NLCD16,summer,0.14
+96,"-","-",normal,albedo,NLCD16,summer,0.14
+97,"-","-",normal,albedo,NLCD16,summer,0.14
+98,"-","-",normal,albedo,NLCD16,summer,0.14
+99,"-","-",normal,albedo,NLCD16,summer,0.14
+11,"-","-",normal,albedo,NLCD16,fall,0.1
+12,"-","-",normal,albedo,NLCD16,fall,0.6
+21,"-","-",normal,albedo,NLCD16,fall,0.15
+22,"-","-",normal,albedo,NLCD16,fall,0.16
+23,"-","-",normal,albedo,NLCD16,fall,0.18
+24,"-","-",normal,albedo,NLCD16,fall,0.18
+31,yes,"-",normal,albedo,NLCD16,fall,0.2
+31,no,"-",normal,albedo,NLCD16,fall,0.2
+32,"-","-",normal,albedo,NLCD16,fall,0.14
+41,"-","-",normal,albedo,NLCD16,fall,0.16
+42,"-","-",normal,albedo,NLCD16,fall,0.12
+43,"-","-",normal,albedo,NLCD16,fall,0.14
+51,yes,"-",normal,albedo,NLCD16,fall,0.25
+51,no,"-",normal,albedo,NLCD16,fall,0.18
+52,yes,"-",normal,albedo,NLCD16,fall,0.25
+52,no,"-",normal,albedo,NLCD16,fall,0.18
+71,"-","-",normal,albedo,NLCD16,fall,0.18
+72,"-","-",normal,albedo,NLCD16,fall,0.18
+73,"-","-",normal,albedo,NLCD16,fall,0.18
+74,"-","-",normal,albedo,NLCD16,fall,0.18
+81,"-","-",normal,albedo,NLCD16,fall,0.2
+82,"-","-",normal,albedo,NLCD16,fall,0.2
+90,"-","-",normal,albedo,NLCD16,fall,0.14
+91,"-","-",normal,albedo,NLCD16,fall,0.14
+92,"-","-",normal,albedo,NLCD16,fall,0.14
+93,"-","-",normal,albedo,NLCD16,fall,0.14
+94,"-","-",normal,albedo,NLCD16,fall,0.14
+95,"-","-",normal,albedo,NLCD16,fall,0.14
+96,"-","-",normal,albedo,NLCD16,fall,0.14
+97,"-","-",normal,albedo,NLCD16,fall,0.14
+98,"-","-",normal,albedo,NLCD16,fall,0.14
+99,"-","-",normal,albedo,NLCD16,fall,0.14
+11,"-","-",dry,bowen,NLCD16,winter without snow,0.1
+12,"-","-",dry,bowen,NLCD16,winter without snow,0.5
+21,"-","-",dry,bowen,NLCD16,winter without snow,2
+22,"-","-",dry,bowen,NLCD16,winter without snow,2.5
+23,"-","-",dry,bowen,NLCD16,winter without snow,3
+24,"-","-",dry,bowen,NLCD16,winter without snow,3
+31,no,"-",dry,bowen,NLCD16,winter without snow,3
+31,yes,"-",dry,bowen,NLCD16,winter without snow,10
+32,"-","-",dry,bowen,NLCD16,winter without snow,0.2
+41,"-","-",dry,bowen,NLCD16,winter without snow,2
+42,"-","-",dry,bowen,NLCD16,winter without snow,1.5
+43,"-","-",dry,bowen,NLCD16,winter without snow,1.75
+51,no,"-",dry,bowen,NLCD16,winter without snow,3
+51,yes,"-",dry,bowen,NLCD16,winter without snow,7
+52,no,"-",dry,bowen,NLCD16,winter without snow,3
+52,yes,"-",dry,bowen,NLCD16,winter without snow,10
+71,"-","-",dry,bowen,NLCD16,winter without snow,2
+72,"-","-",dry,bowen,NLCD16,winter without snow,2
+73,"-","-",dry,bowen,NLCD16,winter without snow,2
+74,"-","-",dry,bowen,NLCD16,winter without snow,2
+81,"-","-",dry,bowen,NLCD16,winter without snow,2
+82,"-","-",dry,bowen,NLCD16,winter without snow,2
+90,"-","-",dry,bowen,NLCD16,winter without snow,0.2
+91,"-","-",dry,bowen,NLCD16,winter without snow,0.2
+92,"-","-",dry,bowen,NLCD16,winter without snow,0.2
+93,"-","-",dry,bowen,NLCD16,winter without snow,0.2
+94,"-","-",dry,bowen,NLCD16,winter without snow,0.2
+95,"-","-",dry,bowen,NLCD16,winter without snow,0.2
+96,"-","-",dry,bowen,NLCD16,winter without snow,0.2
+97,"-","-",dry,bowen,NLCD16,winter without snow,0.2
+98,"-","-",dry,bowen,NLCD16,winter without snow,0.1
+99,"-","-",dry,bowen,NLCD16,winter without snow,0.1
+11,"-","-",normal,bowen,NLCD16,winter without snow,0.1
+12,"-","-",normal,bowen,NLCD16,winter without snow,0.5
+21,"-","-",normal,bowen,NLCD16,winter without snow,0.7
+22,"-","-",normal,bowen,NLCD16,winter without snow,1
+23,"-","-",normal,bowen,NLCD16,winter without snow,1.2
+24,"-","-",normal,bowen,NLCD16,winter without snow,1.5
+31,no,"-",normal,bowen,NLCD16,winter without snow,1.5
+31,yes,"-",normal,bowen,NLCD16,winter without snow,6
+32,"-","-",normal,bowen,NLCD16,winter without snow,0.2
+41,"-","-",normal,bowen,NLCD16,winter without snow,1
+42,"-","-",normal,bowen,NLCD16,winter without snow,0.8
+43,"-","-",normal,bowen,NLCD16,winter without snow,0.9
+51,no,"-",normal,bowen,NLCD16,winter without snow,1.5
+51,yes,"-",normal,bowen,NLCD16,winter without snow,4
+52,no,"-",normal,bowen,NLCD16,winter without snow,1.5
+52,yes,"-",normal,bowen,NLCD16,winter without snow,6
+71,"-","-",normal,bowen,NLCD16,winter without snow,1
+72,"-","-",normal,bowen,NLCD16,winter without snow,1
+73,"-","-",normal,bowen,NLCD16,winter without snow,1
+74,"-","-",normal,bowen,NLCD16,winter without snow,1
+81,"-","-",normal,bowen,NLCD16,winter without snow,0.7
+82,"-","-",normal,bowen,NLCD16,winter without snow,0.7
+90,"-","-",normal,bowen,NLCD16,winter without snow,0.2
+91,"-","-",normal,bowen,NLCD16,winter without snow,0.2
+92,"-","-",normal,bowen,NLCD16,winter without snow,0.2
+93,"-","-",normal,bowen,NLCD16,winter without snow,0.2
+94,"-","-",normal,bowen,NLCD16,winter without snow,0.2
+95,"-","-",normal,bowen,NLCD16,winter without snow,0.1
+96,"-","-",normal,bowen,NLCD16,winter without snow,0.1
+97,"-","-",normal,bowen,NLCD16,winter without snow,0.1
+98,"-","-",normal,bowen,NLCD16,winter without snow,0.1
+99,"-","-",normal,bowen,NLCD16,winter without snow,0.1
+11,"-","-",wet,bowen,NLCD16,winter without snow,0.1
+12,"-","-",wet,bowen,NLCD16,winter without snow,0.5
+21,"-","-",wet,bowen,NLCD16,winter without snow,0.4
+22,"-","-",wet,bowen,NLCD16,winter without snow,0.6
+23,"-","-",wet,bowen,NLCD16,winter without snow,0.8
+24,"-","-",wet,bowen,NLCD16,winter without snow,1
+31,no,"-",wet,bowen,NLCD16,winter without snow,1
+31,yes,"-",wet,bowen,NLCD16,winter without snow,2
+32,"-","-",wet,bowen,NLCD16,winter without snow,0.1
+41,"-","-",wet,bowen,NLCD16,winter without snow,0.4
+42,"-","-",wet,bowen,NLCD16,winter without snow,0.3
+43,"-","-",wet,bowen,NLCD16,winter without snow,0.35
+51,no,"-",wet,bowen,NLCD16,winter without snow,1
+51,yes,"-",wet,bowen,NLCD16,winter without snow,1.5
+52,no,"-",wet,bowen,NLCD16,winter without snow,1
+52,yes,"-",wet,bowen,NLCD16,winter without snow,2
+71,"-","-",wet,bowen,NLCD16,winter without snow,0.5
+72,"-","-",wet,bowen,NLCD16,winter without snow,0.5
+73,"-","-",wet,bowen,NLCD16,winter without snow,0.5
+74,"-","-",wet,bowen,NLCD16,winter without snow,0.5
+81,"-","-",wet,bowen,NLCD16,winter without snow,0.4
+82,"-","-",wet,bowen,NLCD16,winter without snow,0.4
+90,"-","-",wet,bowen,NLCD16,winter without snow,0.1
+91,"-","-",wet,bowen,NLCD16,winter without snow,0.1
+92,"-","-",wet,bowen,NLCD16,winter without snow,0.1
+93,"-","-",wet,bowen,NLCD16,winter without snow,0.1
+94,"-","-",wet,bowen,NLCD16,winter without snow,0.1
+95,"-","-",wet,bowen,NLCD16,winter without snow,0.1
+96,"-","-",wet,bowen,NLCD16,winter without snow,0.1
+97,"-","-",wet,bowen,NLCD16,winter without snow,0.1
+98,"-","-",wet,bowen,NLCD16,winter without snow,0.1
+99,"-","-",wet,bowen,NLCD16,winter without snow,0.1
+11,"-","-",dry,bowen,NLCD16,winter with snow,0.1
+12,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+21,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+22,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+23,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+24,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+31,no,"-",dry,bowen,NLCD16,winter with snow,0.5
+31,yes,"-",dry,bowen,NLCD16,winter with snow,
+32,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+41,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+42,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+43,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+51,no,"-",dry,bowen,NLCD16,winter with snow,0.5
+51,yes,"-",dry,bowen,NLCD16,winter with snow,
+52,no,"-",dry,bowen,NLCD16,winter with snow,0.5
+52,yes,"-",dry,bowen,NLCD16,winter with snow,
+71,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+72,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+73,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+74,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+81,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+82,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+90,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+91,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+92,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+93,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+94,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+95,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+96,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+97,"-","-",dry,bowen,NLCD16,winter with snow,0.5
+98,"-","-",dry,bowen,NLCD16,winter with snow,0.1
+99,"-","-",dry,bowen,NLCD16,winter with snow,0.1
+11,"-","-",normal,bowen,NLCD16,winter with snow,0.1
+12,"-","-",normal,bowen,NLCD16,winter with snow,0.5
+21,"-","-",normal,bowen,NLCD16,winter with snow,0.5
+22,"-","-",normal,bowen,NLCD16,winter with snow,0.5
+23,"-","-",normal,bowen,NLCD16,winter with snow,0.5
+24,"-","-",normal,bowen,NLCD16,winter with snow,0.5
+31,no,"-",normal,bowen,NLCD16,winter with snow,0.5
+31,yes,"-",normal,bowen,NLCD16,winter with snow,
+32,"-","-",normal,bowen,NLCD16,winter with snow,0.5
+41,"-","-",normal,bowen,NLCD16,winter with snow,0.5
+42,"-","-",normal,bowen,NLCD16,winter with snow,0.7
+43,"-","-",normal,bowen,NLCD16,winter with snow,0.5
+51,no,"-",normal,bowen,NLCD16,winter with snow,0.5
+51,yes,"-",normal,bowen,NLCD16,winter with snow,
+52,no,"-",normal,bowen,NLCD16,winter with snow,0.5
+52,yes,"-",normal,bowen,NLCD16,winter with snow,
+71,"-","-",normal,bowen,NLCD16,winter with snow,0.5
+72,"-","-",normal,bowen,NLCD16,winter with snow,0.5
+73,"-","-",normal,bowen,NLCD16,winter with snow,0.5
+74,"-","-",normal,bowen,NLCD16,winter with snow,0.5
+81,"-","-",normal,bowen,NLCD16,winter with snow,0.5
+82,"-","-",normal,bowen,NLCD16,winter with snow,0.5
+90,"-","-",normal,bowen,NLCD16,winter with snow,0.5
+91,"-","-",normal,bowen,NLCD16,winter with snow,0.5
+92,"-","-",normal,bowen,NLCD16,winter with snow,0.5
+93,"-","-",normal,bowen,NLCD16,winter with snow,0.5
+94,"-","-",normal,bowen,NLCD16,winter with snow,0.5
+95,"-","-",normal,bowen,NLCD16,winter with snow,0.5
+96,"-","-",normal,bowen,NLCD16,winter with snow,0.5
+97,"-","-",normal,bowen,NLCD16,winter with snow,0.5
+98,"-","-",normal,bowen,NLCD16,winter with snow,0.1
+99,"-","-",normal,bowen,NLCD16,winter with snow,0.1
+11,"-","-",wet,bowen,NLCD16,winter with snow,0.1
+12,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+21,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+22,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+23,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+24,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+31,no,"-",wet,bowen,NLCD16,winter with snow,0.5
+31,yes,"-",wet,bowen,NLCD16,winter with snow,
+32,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+41,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+42,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+43,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+51,no,"-",wet,bowen,NLCD16,winter with snow,0.5
+51,yes,"-",wet,bowen,NLCD16,winter with snow,
+52,no,"-",wet,bowen,NLCD16,winter with snow,0.5
+52,yes,"-",wet,bowen,NLCD16,winter with snow,
+71,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+72,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+73,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+74,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+81,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+82,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+90,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+91,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+92,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+93,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+94,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+95,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+96,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+97,"-","-",wet,bowen,NLCD16,winter with snow,0.5
+98,"-","-",wet,bowen,NLCD16,winter with snow,0.1
+99,"-","-",wet,bowen,NLCD16,winter with snow,0.1
+11,"-","-",dry,bowen,NLCD16,spring,0.1
+12,"-","-",dry,bowen,NLCD16,spring,0.5
+21,"-","-",dry,bowen,NLCD16,spring,1
+22,"-","-",dry,bowen,NLCD16,spring,2
+23,"-","-",dry,bowen,NLCD16,spring,3
+24,"-","-",dry,bowen,NLCD16,spring,3
+31,no,"-",dry,bowen,NLCD16,spring,3
+31,yes,"-",dry,bowen,NLCD16,spring,5
+32,"-","-",dry,bowen,NLCD16,spring,0.2
+41,"-","-",dry,bowen,NLCD16,spring,1.5
+42,"-","-",dry,bowen,NLCD16,spring,1.5
+43,"-","-",dry,bowen,NLCD16,spring,1.5
+51,no,"-",dry,bowen,NLCD16,spring,2.5
+51,yes,"-",dry,bowen,NLCD16,spring,4
+52,no,"-",dry,bowen,NLCD16,spring,2.5
+52,yes,"-",dry,bowen,NLCD16,spring,5
+71,"-","-",dry,bowen,NLCD16,spring,1
+72,"-","-",dry,bowen,NLCD16,spring,1
+73,"-","-",dry,bowen,NLCD16,spring,1
+74,"-","-",dry,bowen,NLCD16,spring,1
+81,"-","-",dry,bowen,NLCD16,spring,1
+82,"-","-",dry,bowen,NLCD16,spring,1
+90,"-","-",dry,bowen,NLCD16,spring,0.2
+91,"-","-",dry,bowen,NLCD16,spring,0.2
+92,"-","-",dry,bowen,NLCD16,spring,0.2
+93,"-","-",dry,bowen,NLCD16,spring,0.2
+94,"-","-",dry,bowen,NLCD16,spring,0.2
+95,"-","-",dry,bowen,NLCD16,spring,0.2
+96,"-","-",dry,bowen,NLCD16,spring,0.2
+97,"-","-",dry,bowen,NLCD16,spring,0.2
+98,"-","-",dry,bowen,NLCD16,spring,0.1
+99,"-","-",dry,bowen,NLCD16,spring,0.1
+11,"-","-",normal,bowen,NLCD16,spring,0.1
+12,"-","-",normal,bowen,NLCD16,spring,0.5
+21,"-","-",normal,bowen,NLCD16,spring,0.3
+22,"-","-",normal,bowen,NLCD16,spring,0.8
+23,"-","-",normal,bowen,NLCD16,spring,1.1
+24,"-","-",normal,bowen,NLCD16,spring,1.5
+31,no,"-",normal,bowen,NLCD16,spring,1.5
+31,yes,"-",normal,bowen,NLCD16,spring,3
+32,"-","-",normal,bowen,NLCD16,spring,0.2
+41,"-","-",normal,bowen,NLCD16,spring,0.7
+42,"-","-",normal,bowen,NLCD16,spring,0.3
+43,"-","-",normal,bowen,NLCD16,spring,0.7
+51,no,"-",normal,bowen,NLCD16,spring,1
+51,yes,"-",normal,bowen,NLCD16,spring,2
+52,no,"-",normal,bowen,NLCD16,spring,1
+52,yes,"-",normal,bowen,NLCD16,spring,3
+71,"-","-",normal,bowen,NLCD16,spring,0.4
+72,"-","-",normal,bowen,NLCD16,spring,0.4
+73,"-","-",normal,bowen,NLCD16,spring,0.4
+74,"-","-",normal,bowen,NLCD16,spring,0.4
+81,"-","-",normal,bowen,NLCD16,spring,0.3
+82,"-","-",normal,bowen,NLCD16,spring,0.3
+90,"-","-",normal,bowen,NLCD16,spring,0.2
+91,"-","-",normal,bowen,NLCD16,spring,0.2
+92,"-","-",normal,bowen,NLCD16,spring,0.2
+93,"-","-",normal,bowen,NLCD16,spring,0.2
+94,"-","-",normal,bowen,NLCD16,spring,0.2
+95,"-","-",normal,bowen,NLCD16,spring,0.1
+96,"-","-",normal,bowen,NLCD16,spring,0.1
+97,"-","-",normal,bowen,NLCD16,spring,0.1
+98,"-","-",normal,bowen,NLCD16,spring,0.1
+99,"-","-",normal,bowen,NLCD16,spring,0.1
+11,"-","-",wet,bowen,NLCD16,spring,0.1
+12,"-","-",wet,bowen,NLCD16,spring,0.5
+21,"-","-",wet,bowen,NLCD16,spring,0.2
+22,"-","-",wet,bowen,NLCD16,spring,0.6
+23,"-","-",wet,bowen,NLCD16,spring,0.8
+24,"-","-",wet,bowen,NLCD16,spring,1
+31,no,"-",wet,bowen,NLCD16,spring,1
+31,yes,"-",wet,bowen,NLCD16,spring,1
+32,"-","-",wet,bowen,NLCD16,spring,0.1
+41,"-","-",wet,bowen,NLCD16,spring,0.3
+42,"-","-",wet,bowen,NLCD16,spring,0.3
+43,"-","-",wet,bowen,NLCD16,spring,0.3
+51,no,"-",wet,bowen,NLCD16,spring,0.8
+51,yes,"-",wet,bowen,NLCD16,spring,0.8
+52,no,"-",wet,bowen,NLCD16,spring,0.8
+52,yes,"-",wet,bowen,NLCD16,spring,1
+71,"-","-",wet,bowen,NLCD16,spring,0.3
+72,"-","-",wet,bowen,NLCD16,spring,0.3
+73,"-","-",wet,bowen,NLCD16,spring,0.3
+74,"-","-",wet,bowen,NLCD16,spring,0.3
+81,"-","-",wet,bowen,NLCD16,spring,0.2
+82,"-","-",wet,bowen,NLCD16,spring,0.2
+90,"-","-",wet,bowen,NLCD16,spring,0.1
+91,"-","-",wet,bowen,NLCD16,spring,0.1
+92,"-","-",wet,bowen,NLCD16,spring,0.1
+93,"-","-",wet,bowen,NLCD16,spring,0.1
+94,"-","-",wet,bowen,NLCD16,spring,0.1
+95,"-","-",wet,bowen,NLCD16,spring,0.1
+96,"-","-",wet,bowen,NLCD16,spring,0.1
+97,"-","-",wet,bowen,NLCD16,spring,0.1
+98,"-","-",wet,bowen,NLCD16,spring,0.1
+99,"-","-",wet,bowen,NLCD16,spring,0.1
+11,"-","-",dry,bowen,NLCD16,summer,0.1
+12,"-","-",dry,bowen,NLCD16,summer,0.5
+21,"-","-",dry,bowen,NLCD16,summer,1.5
+22,"-","-",dry,bowen,NLCD16,summer,2
+23,"-","-",dry,bowen,NLCD16,summer,3
+24,"-","-",dry,bowen,NLCD16,summer,3
+31,no,"-",dry,bowen,NLCD16,summer,3
+31,yes,"-",dry,bowen,NLCD16,summer,6
+32,"-","-",dry,bowen,NLCD16,summer,0.2
+41,"-","-",dry,bowen,NLCD16,summer,0.6
+42,"-","-",dry,bowen,NLCD16,summer,0.6
+43,"-","-",dry,bowen,NLCD16,summer,0.6
+51,no,"-",dry,bowen,NLCD16,summer,2.5
+51,yes,"-",dry,bowen,NLCD16,summer,6
+52,no,"-",dry,bowen,NLCD16,summer,2.5
+52,yes,"-",dry,bowen,NLCD16,summer,6
+71,"-","-",dry,bowen,NLCD16,summer,2
+72,"-","-",dry,bowen,NLCD16,summer,2
+73,"-","-",dry,bowen,NLCD16,summer,2
+74,"-","-",dry,bowen,NLCD16,summer,2
+81,"-","-",dry,bowen,NLCD16,summer,1.5
+82,"-","-",dry,bowen,NLCD16,summer,1.5
+90,"-","-",dry,bowen,NLCD16,summer,0.2
+91,"-","-",dry,bowen,NLCD16,summer,0.2
+92,"-","-",dry,bowen,NLCD16,summer,0.2
+93,"-","-",dry,bowen,NLCD16,summer,0.2
+94,"-","-",dry,bowen,NLCD16,summer,0.2
+95,"-","-",dry,bowen,NLCD16,summer,0.2
+96,"-","-",dry,bowen,NLCD16,summer,0.2
+97,"-","-",dry,bowen,NLCD16,summer,0.2
+98,"-","-",dry,bowen,NLCD16,summer,0.1
+99,"-","-",dry,bowen,NLCD16,summer,0.1
+11,"-","-",normal,bowen,NLCD16,summer,0.1
+12,"-","-",normal,bowen,NLCD16,summer,0.5
+21,"-","-",normal,bowen,NLCD16,summer,0.5
+22,"-","-",normal,bowen,NLCD16,summer,0.8
+23,"-","-",normal,bowen,NLCD16,summer,1.1
+24,"-","-",normal,bowen,NLCD16,summer,1.5
+31,no,"-",normal,bowen,NLCD16,summer,1.5
+31,yes,"-",normal,bowen,NLCD16,summer,4
+32,"-","-",normal,bowen,NLCD16,summer,0.2
+41,"-","-",normal,bowen,NLCD16,summer,0.3
+42,"-","-",normal,bowen,NLCD16,summer,0.3
+43,"-","-",normal,bowen,NLCD16,summer,0.3
+51,no,"-",normal,bowen,NLCD16,summer,1
+51,yes,"-",normal,bowen,NLCD16,summer,3
+52,no,"-",normal,bowen,NLCD16,summer,1
+52,yes,"-",normal,bowen,NLCD16,summer,4
+71,"-","-",normal,bowen,NLCD16,summer,0.8
+72,"-","-",normal,bowen,NLCD16,summer,0.8
+73,"-","-",normal,bowen,NLCD16,summer,0.8
+74,"-","-",normal,bowen,NLCD16,summer,0.8
+81,"-","-",normal,bowen,NLCD16,summer,0.5
+82,"-","-",normal,bowen,NLCD16,summer,0.5
+90,"-","-",normal,bowen,NLCD16,summer,0.2
+91,"-","-",normal,bowen,NLCD16,summer,0.2
+92,"-","-",normal,bowen,NLCD16,summer,0.2
+93,"-","-",normal,bowen,NLCD16,summer,0.2
+94,"-","-",normal,bowen,NLCD16,summer,0.2
+95,"-","-",normal,bowen,NLCD16,summer,0.1
+96,"-","-",normal,bowen,NLCD16,summer,0.1
+97,"-","-",normal,bowen,NLCD16,summer,0.1
+98,"-","-",normal,bowen,NLCD16,summer,0.1
+99,"-","-",normal,bowen,NLCD16,summer,0.1
+11,"-","-",wet,bowen,NLCD16,summer,0.1
+12,"-","-",wet,bowen,NLCD16,summer,0.5
+21,"-","-",wet,bowen,NLCD16,summer,0.3
+22,"-","-",wet,bowen,NLCD16,summer,0.6
+23,"-","-",wet,bowen,NLCD16,summer,0.8
+24,"-","-",wet,bowen,NLCD16,summer,1
+31,no,"-",wet,bowen,NLCD16,summer,1
+31,yes,"-",wet,bowen,NLCD16,summer,1.5
+32,"-","-",wet,bowen,NLCD16,summer,0.1
+41,"-","-",wet,bowen,NLCD16,summer,0.2
+42,"-","-",wet,bowen,NLCD16,summer,0.2
+43,"-","-",wet,bowen,NLCD16,summer,0.2
+51,no,"-",wet,bowen,NLCD16,summer,0.8
+51,yes,"-",wet,bowen,NLCD16,summer,0.9
+52,no,"-",wet,bowen,NLCD16,summer,0.8
+52,yes,"-",wet,bowen,NLCD16,summer,1.5
+71,"-","-",wet,bowen,NLCD16,summer,0.4
+72,"-","-",wet,bowen,NLCD16,summer,0.4
+73,"-","-",wet,bowen,NLCD16,summer,0.4
+74,"-","-",wet,bowen,NLCD16,summer,0.4
+81,"-","-",wet,bowen,NLCD16,summer,0.3
+82,"-","-",wet,bowen,NLCD16,summer,0.3
+90,"-","-",wet,bowen,NLCD16,summer,0.1
+91,"-","-",wet,bowen,NLCD16,summer,0.1
+92,"-","-",wet,bowen,NLCD16,summer,0.1
+93,"-","-",wet,bowen,NLCD16,summer,0.1
+94,"-","-",wet,bowen,NLCD16,summer,0.1
+95,"-","-",wet,bowen,NLCD16,summer,0.1
+96,"-","-",wet,bowen,NLCD16,summer,0.1
+97,"-","-",wet,bowen,NLCD16,summer,0.1
+98,"-","-",wet,bowen,NLCD16,summer,0.1
+99,"-","-",wet,bowen,NLCD16,summer,0.1
+11,"-","-",dry,bowen,NLCD16,fall,0.1
+12,"-","-",dry,bowen,NLCD16,fall,0.5
+21,"-","-",dry,bowen,NLCD16,fall,2
+22,"-","-",dry,bowen,NLCD16,fall,2.5
+23,"-","-",dry,bowen,NLCD16,fall,3
+24,"-","-",dry,bowen,NLCD16,fall,3
+31,no,"-",dry,bowen,NLCD16,fall,3
+31,yes,"-",dry,bowen,NLCD16,fall,10
+32,"-","-",dry,bowen,NLCD16,fall,0.2
+41,"-","-",dry,bowen,NLCD16,fall,2
+42,"-","-",dry,bowen,NLCD16,fall,1.5
+43,"-","-",dry,bowen,NLCD16,fall,1.75
+51,no,"-",dry,bowen,NLCD16,fall,3
+51,yes,"-",dry,bowen,NLCD16,fall,7
+52,no,"-",dry,bowen,NLCD16,fall,3
+52,yes,"-",dry,bowen,NLCD16,fall,10
+71,"-","-",dry,bowen,NLCD16,fall,2
+72,"-","-",dry,bowen,NLCD16,fall,2
+73,"-","-",dry,bowen,NLCD16,fall,2
+74,"-","-",dry,bowen,NLCD16,fall,2
+81,"-","-",dry,bowen,NLCD16,fall,2
+82,"-","-",dry,bowen,NLCD16,fall,2
+90,"-","-",dry,bowen,NLCD16,fall,0.2
+91,"-","-",dry,bowen,NLCD16,fall,0.2
+92,"-","-",dry,bowen,NLCD16,fall,0.2
+93,"-","-",dry,bowen,NLCD16,fall,0.2
+94,"-","-",dry,bowen,NLCD16,fall,0.2
+95,"-","-",dry,bowen,NLCD16,fall,0.2
+96,"-","-",dry,bowen,NLCD16,fall,0.2
+97,"-","-",dry,bowen,NLCD16,fall,0.2
+98,"-","-",dry,bowen,NLCD16,fall,0.1
+99,"-","-",dry,bowen,NLCD16,fall,0.1
+11,"-","-",normal,bowen,NLCD16,fall,0.1
+12,"-","-",normal,bowen,NLCD16,fall,0.5
+21,"-","-",normal,bowen,NLCD16,fall,0.7
+22,"-","-",normal,bowen,NLCD16,fall,1
+23,"-","-",normal,bowen,NLCD16,fall,1.2
+24,"-","-",normal,bowen,NLCD16,fall,1.5
+31,no,"-",normal,bowen,NLCD16,fall,1.5
+31,yes,"-",normal,bowen,NLCD16,fall,6
+32,"-","-",normal,bowen,NLCD16,fall,0.2
+41,"-","-",normal,bowen,NLCD16,fall,1
+42,"-","-",normal,bowen,NLCD16,fall,0.8
+43,"-","-",normal,bowen,NLCD16,fall,0.9
+51,no,"-",normal,bowen,NLCD16,fall,1.5
+51,yes,"-",normal,bowen,NLCD16,fall,4
+52,no,"-",normal,bowen,NLCD16,fall,1.5
+52,yes,"-",normal,bowen,NLCD16,fall,6
+71,"-","-",normal,bowen,NLCD16,fall,1
+72,"-","-",normal,bowen,NLCD16,fall,1
+73,"-","-",normal,bowen,NLCD16,fall,1
+74,"-","-",normal,bowen,NLCD16,fall,1
+81,"-","-",normal,bowen,NLCD16,fall,0.7
+82,"-","-",normal,bowen,NLCD16,fall,0.7
+90,"-","-",normal,bowen,NLCD16,fall,0.2
+91,"-","-",normal,bowen,NLCD16,fall,0.2
+92,"-","-",normal,bowen,NLCD16,fall,0.2
+93,"-","-",normal,bowen,NLCD16,fall,0.2
+94,"-","-",normal,bowen,NLCD16,fall,0.2
+95,"-","-",normal,bowen,NLCD16,fall,0.1
+96,"-","-",normal,bowen,NLCD16,fall,0.1
+97,"-","-",normal,bowen,NLCD16,fall,0.1
+98,"-","-",normal,bowen,NLCD16,fall,0.1
+99,"-","-",normal,bowen,NLCD16,fall,0.1
+11,"-","-",wet,bowen,NLCD16,fall,0.1
+12,"-","-",wet,bowen,NLCD16,fall,0.5
+21,"-","-",wet,bowen,NLCD16,fall,0.4
+22,"-","-",wet,bowen,NLCD16,fall,0.6
+23,"-","-",wet,bowen,NLCD16,fall,0.8
+24,"-","-",wet,bowen,NLCD16,fall,1
+31,no,"-",wet,bowen,NLCD16,fall,1
+31,yes,"-",wet,bowen,NLCD16,fall,2
+32,"-","-",wet,bowen,NLCD16,fall,0.1
+41,"-","-",wet,bowen,NLCD16,fall,0.4
+42,"-","-",wet,bowen,NLCD16,fall,0.3
+43,"-","-",wet,bowen,NLCD16,fall,0.35
+51,no,"-",wet,bowen,NLCD16,fall,1
+51,yes,"-",wet,bowen,NLCD16,fall,1.5
+52,no,"-",wet,bowen,NLCD16,fall,1
+52,yes,"-",wet,bowen,NLCD16,fall,2
+71,"-","-",wet,bowen,NLCD16,fall,0.5
+72,"-","-",wet,bowen,NLCD16,fall,0.5
+73,"-","-",wet,bowen,NLCD16,fall,0.5
+74,"-","-",wet,bowen,NLCD16,fall,0.5
+81,"-","-",wet,bowen,NLCD16,fall,0.4
+82,"-","-",wet,bowen,NLCD16,fall,0.4
+90,"-","-",wet,bowen,NLCD16,fall,0.1
+91,"-","-",wet,bowen,NLCD16,fall,0.1
+92,"-","-",wet,bowen,NLCD16,fall,0.1
+93,"-","-",wet,bowen,NLCD16,fall,0.1
+94,"-","-",wet,bowen,NLCD16,fall,0.1
+95,"-","-",wet,bowen,NLCD16,fall,0.1
+96,"-","-",wet,bowen,NLCD16,fall,0.1
+97,"-","-",wet,bowen,NLCD16,fall,0.1
+98,"-","-",wet,bowen,NLCD16,fall,0.1
+99,"-","-",wet,bowen,NLCD16,fall,0.1
+11,"-","-",normal,rough,NLCD16,winter without snow,0.001
+12,"-","-",normal,rough,NLCD16,winter without snow,0.002
+21,"-",yes,normal,rough,NLCD16,winter without snow,0.02
+21,"-",no,normal,rough,NLCD16,winter without snow,0.02
+22,"-",yes,normal,rough,NLCD16,winter without snow,0.03
+22,"-",no,normal,rough,NLCD16,winter without snow,0.07
+23,"-",yes,normal,rough,NLCD16,winter without snow,0.05
+23,"-",no,normal,rough,NLCD16,winter without snow,0.3
+24,"-",yes,normal,rough,NLCD16,winter without snow,0.07
+24,"-",no,normal,rough,NLCD16,winter without snow,0.7
+31,yes,"-",normal,rough,NLCD16,winter without snow,0.05
+31,no,"-",normal,rough,NLCD16,winter without snow,0.05
+32,"-","-",normal,rough,NLCD16,winter without snow,0.05
+41,"-","-",normal,rough,NLCD16,winter without snow,0.6
+42,"-","-",normal,rough,NLCD16,winter without snow,1.3
+43,"-","-",normal,rough,NLCD16,winter without snow,0.9
+51,yes,"-",normal,rough,NLCD16,winter without snow,0.05
+51,no,"-",normal,rough,NLCD16,winter without snow,0.1
+52,yes,"-",normal,rough,NLCD16,winter without snow,0.15
+52,no,"-",normal,rough,NLCD16,winter without snow,0.3
+71,"-","-",normal,rough,NLCD16,winter without snow,0.01
+72,"-","-",normal,rough,NLCD16,winter without snow,0.01
+73,"-","-",normal,rough,NLCD16,winter without snow,0.01
+74,"-","-",normal,rough,NLCD16,winter without snow,0.01
+81,"-",yes,normal,rough,NLCD16,winter without snow,0.02
+81,"-",no,normal,rough,NLCD16,winter without snow,0.02
+82,"-",yes,normal,rough,NLCD16,winter without snow,0.02
+82,"-",no,normal,rough,NLCD16,winter without snow,0.03
+90,"-","-",normal,rough,NLCD16,winter without snow,0.4
+91,"-","-",normal,rough,NLCD16,winter without snow,0.4
+92,"-","-",normal,rough,NLCD16,winter without snow,0.2
+93,"-","-",normal,rough,NLCD16,winter without snow,0.4
+94,"-","-",normal,rough,NLCD16,winter without snow,0.2
+95,"-","-",normal,rough,NLCD16,winter without snow,0.2
+96,"-","-",normal,rough,NLCD16,winter without snow,0.2
+97,"-","-",normal,rough,NLCD16,winter without snow,0.2
+98,"-","-",normal,rough,NLCD16,winter without snow,0.05
+99,"-","-",normal,rough,NLCD16,winter without snow,0.05
+11,"-","-",normal,rough,NLCD16,winter with snow,0.001
+12,"-","-",normal,rough,NLCD16,winter with snow,0.002
+21,"-",yes,normal,rough,NLCD16,winter with snow,0.01
+21,"-",no,normal,rough,NLCD16,winter with snow,0.01
+22,"-",yes,normal,rough,NLCD16,winter with snow,0.02
+22,"-",no,normal,rough,NLCD16,winter with snow,0.05
+23,"-",yes,normal,rough,NLCD16,winter with snow,0.04
+23,"-",no,normal,rough,NLCD16,winter with snow,0.2
+24,"-",yes,normal,rough,NLCD16,winter with snow,0.07
+24,"-",no,normal,rough,NLCD16,winter with snow,0.7
+31,yes,"-",normal,rough,NLCD16,winter with snow,
+31,no,"-",normal,rough,NLCD16,winter with snow,0.01
+32,"-","-",normal,rough,NLCD16,winter with snow,0.01
+41,"-","-",normal,rough,NLCD16,winter with snow,0.5
+42,"-","-",normal,rough,NLCD16,winter with snow,1.3
+43,"-","-",normal,rough,NLCD16,winter with snow,0.8
+51,yes,"-",normal,rough,NLCD16,winter with snow,
+51,no,"-",normal,rough,NLCD16,winter with snow,0.05
+52,yes,"-",normal,rough,NLCD16,winter with snow,
+52,no,"-",normal,rough,NLCD16,winter with snow,0.15
+71,"-","-",normal,rough,NLCD16,winter with snow,0.005
+72,"-","-",normal,rough,NLCD16,winter with snow,0.005
+73,"-","-",normal,rough,NLCD16,winter with snow,0.005
+74,"-","-",normal,rough,NLCD16,winter with snow,0.005
+81,"-",yes,normal,rough,NLCD16,winter with snow,0.01
+81,"-",no,normal,rough,NLCD16,winter with snow,0.01
+82,"-",yes,normal,rough,NLCD16,winter with snow,0.01
+82,"-",no,normal,rough,NLCD16,winter with snow,0.014
+90,"-","-",normal,rough,NLCD16,winter with snow,0.3
+91,"-","-",normal,rough,NLCD16,winter with snow,0.3
+92,"-","-",normal,rough,NLCD16,winter with snow,0.1
+93,"-","-",normal,rough,NLCD16,winter with snow,0.3
+94,"-","-",normal,rough,NLCD16,winter with snow,0.1
+95,"-","-",normal,rough,NLCD16,winter with snow,0.1
+96,"-","-",normal,rough,NLCD16,winter with snow,0.1
+97,"-","-",normal,rough,NLCD16,winter with snow,0.1
+98,"-","-",normal,rough,NLCD16,winter with snow,0.05
+99,"-","-",normal,rough,NLCD16,winter with snow,0.05
+11,"-","-",normal,rough,NLCD16,spring,0.001
+12,"-","-",normal,rough,NLCD16,spring,0.002
+21,"-",yes,normal,rough,NLCD16,spring,0.02
+21,"-",no,normal,rough,NLCD16,spring,0.03
+22,"-",yes,normal,rough,NLCD16,spring,0.03
+22,"-",no,normal,rough,NLCD16,spring,0.09
+23,"-",yes,normal,rough,NLCD16,spring,0.06
+23,"-",no,normal,rough,NLCD16,spring,0.3
+24,"-",yes,normal,rough,NLCD16,spring,0.07
+24,"-",no,normal,rough,NLCD16,spring,0.7
+31,yes,"-",normal,rough,NLCD16,spring,0.05
+31,no,"-",normal,rough,NLCD16,spring,0.05
+32,"-","-",normal,rough,NLCD16,spring,0.05
+41,"-","-",normal,rough,NLCD16,spring,1
+42,"-","-",normal,rough,NLCD16,spring,1.3
+43,"-","-",normal,rough,NLCD16,spring,1.1
+51,yes,"-",normal,rough,NLCD16,spring,0.05
+51,no,"-",normal,rough,NLCD16,spring,0.1
+52,yes,"-",normal,rough,NLCD16,spring,0.15
+52,no,"-",normal,rough,NLCD16,spring,0.3
+71,"-","-",normal,rough,NLCD16,spring,0.05
+72,"-","-",normal,rough,NLCD16,spring,0.05
+73,"-","-",normal,rough,NLCD16,spring,0.05
+74,"-","-",normal,rough,NLCD16,spring,0.05
+81,"-",yes,normal,rough,NLCD16,spring,0.02
+81,"-",no,normal,rough,NLCD16,spring,0.03
+82,"-",yes,normal,rough,NLCD16,spring,0.02
+82,"-",no,normal,rough,NLCD16,spring,0.04
+90,"-","-",normal,rough,NLCD16,spring,0.5
+91,"-","-",normal,rough,NLCD16,spring,0.5
+92,"-","-",normal,rough,NLCD16,spring,0.2
+93,"-","-",normal,rough,NLCD16,spring,0.5
+94,"-","-",normal,rough,NLCD16,spring,0.2
+95,"-","-",normal,rough,NLCD16,spring,0.2
+96,"-","-",normal,rough,NLCD16,spring,0.2
+97,"-","-",normal,rough,NLCD16,spring,0.2
+98,"-","-",normal,rough,NLCD16,spring,0.05
+99,"-","-",normal,rough,NLCD16,spring,0.05
+11,"-","-",normal,rough,NLCD16,summer,0.001
+12,"-","-",normal,rough,NLCD16,summer,0.002
+21,"-",yes,normal,rough,NLCD16,summer,0.03
+21,"-",no,normal,rough,NLCD16,summer,0.04
+22,"-",yes,normal,rough,NLCD16,summer,0.04
+22,"-",no,normal,rough,NLCD16,summer,0.1
+23,"-",yes,normal,rough,NLCD16,summer,0.06
+23,"-",no,normal,rough,NLCD16,summer,0.3
+24,"-",yes,normal,rough,NLCD16,summer,0.08
+24,"-",no,normal,rough,NLCD16,summer,0.7
+31,yes,"-",normal,rough,NLCD16,summer,0.05
+31,no,"-",normal,rough,NLCD16,summer,0.05
+32,"-","-",normal,rough,NLCD16,summer,0.05
+41,"-","-",normal,rough,NLCD16,summer,1.3
+42,"-","-",normal,rough,NLCD16,summer,1.3
+43,"-","-",normal,rough,NLCD16,summer,1.3
+51,yes,"-",normal,rough,NLCD16,summer,0.05
+51,no,"-",normal,rough,NLCD16,summer,0.1
+52,yes,"-",normal,rough,NLCD16,summer,0.15
+52,no,"-",normal,rough,NLCD16,summer,0.3
+71,"-","-",normal,rough,NLCD16,summer,0.1
+72,"-","-",normal,rough,NLCD16,summer,0.1
+73,"-","-",normal,rough,NLCD16,summer,0.05
+74,"-","-",normal,rough,NLCD16,summer,0.05
+81,"-",yes,normal,rough,NLCD16,summer,0.03
+81,"-",no,normal,rough,NLCD16,summer,0.03
+82,"-",yes,normal,rough,NLCD16,summer,0.03
+82,"-",no,normal,rough,NLCD16,summer,0.2
+90,"-","-",normal,rough,NLCD16,summer,0.5
+91,"-","-",normal,rough,NLCD16,summer,0.5
+92,"-","-",normal,rough,NLCD16,summer,0.2
+93,"-","-",normal,rough,NLCD16,summer,0.5
+94,"-","-",normal,rough,NLCD16,summer,0.2
+95,"-","-",normal,rough,NLCD16,summer,0.2
+96,"-","-",normal,rough,NLCD16,summer,0.2
+97,"-","-",normal,rough,NLCD16,summer,0.2
+98,"-","-",normal,rough,NLCD16,summer,0.05
+99,"-","-",normal,rough,NLCD16,summer,0.05
+11,"-","-",normal,rough,NLCD16,fall,0.001
+12,"-","-",normal,rough,NLCD16,fall,0.002
+21,"-",yes,normal,rough,NLCD16,fall,0.03
+21,"-",no,normal,rough,NLCD16,fall,0.03
+22,"-",yes,normal,rough,NLCD16,fall,0.03
+22,"-",no,normal,rough,NLCD16,fall,0.09
+23,"-",yes,normal,rough,NLCD16,fall,0.06
+23,"-",no,normal,rough,NLCD16,fall,0.3
+24,"-",yes,normal,rough,NLCD16,fall,0.08
+24,"-",no,normal,rough,NLCD16,fall,0.7
+31,yes,"-",normal,rough,NLCD16,fall,0.05
+31,no,"-",normal,rough,NLCD16,fall,0.05
+32,"-","-",normal,rough,NLCD16,fall,0.05
+41,"-","-",normal,rough,NLCD16,fall,1.3
+42,"-","-",normal,rough,NLCD16,fall,1.3
+43,"-","-",normal,rough,NLCD16,fall,1.3
+51,yes,"-",normal,rough,NLCD16,fall,0.05
+51,no,"-",normal,rough,NLCD16,fall,0.1
+52,yes,"-",normal,rough,NLCD16,fall,0.15
+52,no,"-",normal,rough,NLCD16,fall,0.3
+71,"-","-",normal,rough,NLCD16,fall,0.1
+72,"-","-",normal,rough,NLCD16,fall,0.1
+73,"-","-",normal,rough,NLCD16,fall,0.05
+74,"-","-",normal,rough,NLCD16,fall,0.05
+81,"-",yes,normal,rough,NLCD16,fall,0.03
+81,"-",no,normal,rough,NLCD16,fall,0.03
+82,"-",yes,normal,rough,NLCD16,fall,0.03
+82,"-",no,normal,rough,NLCD16,fall,0.2
+90,"-","-",normal,rough,NLCD16,fall,0.5
+91,"-","-",normal,rough,NLCD16,fall,0.5
+92,"-","-",normal,rough,NLCD16,fall,0.2
+93,"-","-",normal,rough,NLCD16,fall,0.5
+94,"-","-",normal,rough,NLCD16,fall,0.2
+95,"-","-",normal,rough,NLCD16,fall,0.2
+96,"-","-",normal,rough,NLCD16,fall,0.2
+97,"-","-",normal,rough,NLCD16,fall,0.2
+98,"-","-",normal,rough,NLCD16,fall,0.05
+99,"-","-",normal,rough,NLCD16,fall,0.05
+11,"-","-",normal,aif,USGS,winter without snow,1
+12,"-","-",normal,aif,USGS,winter without snow,0.2
+13,"-","-",normal,aif,USGS,winter without snow,0.2
+14,"-","-",normal,aif,USGS,winter without snow,0.2
+15,"-","-",normal,aif,USGS,winter without snow,0.2
+16,"-","-",normal,aif,USGS,winter without snow,0.2
+17,"-","-",normal,aif,USGS,winter without snow,0.2
+21,"-","-",normal,aif,USGS,winter without snow,3
+22,"-","-",normal,aif,USGS,winter without snow,3
+23,"-","-",normal,aif,USGS,winter without snow,3
+24,"-","-",normal,aif,USGS,winter without snow,3
+31,"-","-",normal,aif,USGS,winter without snow,0.5
+32,"-","-",normal,aif,USGS,winter without snow,0.5
+33,"-","-",normal,aif,USGS,winter without snow,0.5
+41,"-","-",normal,aif,USGS,winter without snow,7
+42,"-","-",normal,aif,USGS,winter without snow,7
+43,"-","-",normal,aif,USGS,winter without snow,7
+51,"-","-",normal,aif,USGS,winter without snow,0
+52,"-","-",normal,aif,USGS,winter without snow,0
+53,"-","-",normal,aif,USGS,winter without snow,0
+54,"-","-",normal,aif,USGS,winter without snow,0
+55,"-","-",normal,aif,USGS,winter without snow,0
+61,"-","-",normal,aif,USGS,winter without snow,2
+62,"-","-",normal,aif,USGS,winter without snow,1
+71,"-","-",normal,aif,USGS,winter without snow,0.05
+72,"-","-",normal,aif,USGS,winter without snow,0.05
+73,"-","-",normal,aif,USGS,winter without snow,0.05
+74,"-","-",normal,aif,USGS,winter without snow,0.05
+75,"-","-",normal,aif,USGS,winter without snow,0.05
+76,"-","-",normal,aif,USGS,winter without snow,0.05
+77,"-","-",normal,aif,USGS,winter without snow,0.05
+81,"-","-",normal,aif,USGS,winter without snow,0
+82,"-","-",normal,aif,USGS,winter without snow,0
+83,"-","-",normal,aif,USGS,winter without snow,0
+84,"-","-",normal,aif,USGS,winter without snow,0
+85,"-","-",normal,aif,USGS,winter without snow,0
+91,"-","-",normal,aif,USGS,winter without snow,0
+92,"-","-",normal,aif,USGS,winter without snow,0
+11,"-","-",normal,aif,USGS,winter with snow,1
+12,"-","-",normal,aif,USGS,winter with snow,0.2
+13,"-","-",normal,aif,USGS,winter with snow,0.2
+14,"-","-",normal,aif,USGS,winter with snow,0.2
+15,"-","-",normal,aif,USGS,winter with snow,0.2
+16,"-","-",normal,aif,USGS,winter with snow,0.2
+17,"-","-",normal,aif,USGS,winter with snow,0.2
+21,"-","-",normal,aif,USGS,winter with snow,0
+22,"-","-",normal,aif,USGS,winter with snow,0
+23,"-","-",normal,aif,USGS,winter with snow,0
+24,"-","-",normal,aif,USGS,winter with snow,0
+31,"-","-",normal,aif,USGS,winter with snow,0.5
+32,"-","-",normal,aif,USGS,winter with snow,0.5
+33,"-","-",normal,aif,USGS,winter with snow,0.5
+41,"-","-",normal,aif,USGS,winter with snow,0
+42,"-","-",normal,aif,USGS,winter with snow,7
+43,"-","-",normal,aif,USGS,winter with snow,3.5
+51,"-","-",normal,aif,USGS,winter with snow,0
+52,"-","-",normal,aif,USGS,winter with snow,0
+53,"-","-",normal,aif,USGS,winter with snow,0
+54,"-","-",normal,aif,USGS,winter with snow,0
+55,"-","-",normal,aif,USGS,winter with snow,0
+61,"-","-",normal,aif,USGS,winter with snow,0
+62,"-","-",normal,aif,USGS,winter with snow,0
+71,"-","-",normal,aif,USGS,winter with snow,0
+72,"-","-",normal,aif,USGS,winter with snow,0
+73,"-","-",normal,aif,USGS,winter with snow,0
+74,"-","-",normal,aif,USGS,winter with snow,0
+75,"-","-",normal,aif,USGS,winter with snow,0
+76,"-","-",normal,aif,USGS,winter with snow,0
+77,"-","-",normal,aif,USGS,winter with snow,0
+81,"-","-",normal,aif,USGS,winter with snow,0
+82,"-","-",normal,aif,USGS,winter with snow,0
+83,"-","-",normal,aif,USGS,winter with snow,0
+84,"-","-",normal,aif,USGS,winter with snow,0
+85,"-","-",normal,aif,USGS,winter with snow,0
+91,"-","-",normal,aif,USGS,winter with snow,0
+92,"-","-",normal,aif,USGS,winter with snow,0
+11,"-","-",normal,aif,USGS,spring,1
+12,"-","-",normal,aif,USGS,spring,0.2
+13,"-","-",normal,aif,USGS,spring,0.2
+14,"-","-",normal,aif,USGS,spring,0.2
+15,"-","-",normal,aif,USGS,spring,0.2
+16,"-","-",normal,aif,USGS,spring,0.2
+17,"-","-",normal,aif,USGS,spring,0.2
+21,"-","-",normal,aif,USGS,spring,3
+22,"-","-",normal,aif,USGS,spring,3
+23,"-","-",normal,aif,USGS,spring,3
+24,"-","-",normal,aif,USGS,spring,3
+31,"-","-",normal,aif,USGS,spring,0.5
+32,"-","-",normal,aif,USGS,spring,0.5
+33,"-","-",normal,aif,USGS,spring,0.5
+41,"-","-",normal,aif,USGS,spring,7
+42,"-","-",normal,aif,USGS,spring,7
+43,"-","-",normal,aif,USGS,spring,7
+51,"-","-",normal,aif,USGS,spring,0
+52,"-","-",normal,aif,USGS,spring,0
+53,"-","-",normal,aif,USGS,spring,0
+54,"-","-",normal,aif,USGS,spring,0
+55,"-","-",normal,aif,USGS,spring,0
+61,"-","-",normal,aif,USGS,spring,2
+62,"-","-",normal,aif,USGS,spring,1
+71,"-","-",normal,aif,USGS,spring,0.05
+72,"-","-",normal,aif,USGS,spring,0.05
+73,"-","-",normal,aif,USGS,spring,0.05
+74,"-","-",normal,aif,USGS,spring,0.05
+75,"-","-",normal,aif,USGS,spring,0.05
+76,"-","-",normal,aif,USGS,spring,0.05
+77,"-","-",normal,aif,USGS,spring,0.05
+81,"-","-",normal,aif,USGS,spring,0
+82,"-","-",normal,aif,USGS,spring,0
+83,"-","-",normal,aif,USGS,spring,0
+84,"-","-",normal,aif,USGS,spring,0
+85,"-","-",normal,aif,USGS,spring,0
+91,"-","-",normal,aif,USGS,spring,0
+92,"-","-",normal,aif,USGS,spring,0
+11,"-","-",normal,aif,USGS,summer,1
+12,"-","-",normal,aif,USGS,summer,0.2
+13,"-","-",normal,aif,USGS,summer,0.2
+14,"-","-",normal,aif,USGS,summer,0.2
+15,"-","-",normal,aif,USGS,summer,0.2
+16,"-","-",normal,aif,USGS,summer,0.2
+17,"-","-",normal,aif,USGS,summer,0.2
+21,"-","-",normal,aif,USGS,summer,3
+22,"-","-",normal,aif,USGS,summer,3
+23,"-","-",normal,aif,USGS,summer,3
+24,"-","-",normal,aif,USGS,summer,3
+31,"-","-",normal,aif,USGS,summer,0.5
+32,"-","-",normal,aif,USGS,summer,0.5
+33,"-","-",normal,aif,USGS,summer,0.5
+41,"-","-",normal,aif,USGS,summer,7
+42,"-","-",normal,aif,USGS,summer,7
+43,"-","-",normal,aif,USGS,summer,7
+51,"-","-",normal,aif,USGS,summer,0
+52,"-","-",normal,aif,USGS,summer,0
+53,"-","-",normal,aif,USGS,summer,0
+54,"-","-",normal,aif,USGS,summer,0
+55,"-","-",normal,aif,USGS,summer,0
+61,"-","-",normal,aif,USGS,summer,2
+62,"-","-",normal,aif,USGS,summer,1
+71,"-","-",normal,aif,USGS,summer,0.05
+72,"-","-",normal,aif,USGS,summer,0.05
+73,"-","-",normal,aif,USGS,summer,0.05
+74,"-","-",normal,aif,USGS,summer,0.05
+75,"-","-",normal,aif,USGS,summer,0.05
+76,"-","-",normal,aif,USGS,summer,0.05
+77,"-","-",normal,aif,USGS,summer,0.05
+81,"-","-",normal,aif,USGS,summer,0
+82,"-","-",normal,aif,USGS,summer,0
+83,"-","-",normal,aif,USGS,summer,0
+84,"-","-",normal,aif,USGS,summer,0
+85,"-","-",normal,aif,USGS,summer,0
+91,"-","-",normal,aif,USGS,summer,0
+92,"-","-",normal,aif,USGS,summer,0
+11,"-","-",normal,aif,USGS,fall,1
+12,"-","-",normal,aif,USGS,fall,0.2
+13,"-","-",normal,aif,USGS,fall,0.2
+14,"-","-",normal,aif,USGS,fall,0.2
+15,"-","-",normal,aif,USGS,fall,0.2
+16,"-","-",normal,aif,USGS,fall,0.2
+17,"-","-",normal,aif,USGS,fall,0.2
+21,"-","-",normal,aif,USGS,fall,3
+22,"-","-",normal,aif,USGS,fall,3
+23,"-","-",normal,aif,USGS,fall,3
+24,"-","-",normal,aif,USGS,fall,3
+31,"-","-",normal,aif,USGS,fall,0.5
+32,"-","-",normal,aif,USGS,fall,0.5
+33,"-","-",normal,aif,USGS,fall,0.5
+41,"-","-",normal,aif,USGS,fall,7
+42,"-","-",normal,aif,USGS,fall,7
+43,"-","-",normal,aif,USGS,fall,7
+51,"-","-",normal,aif,USGS,fall,0
+52,"-","-",normal,aif,USGS,fall,0
+53,"-","-",normal,aif,USGS,fall,0
+54,"-","-",normal,aif,USGS,fall,0
+55,"-","-",normal,aif,USGS,fall,0
+61,"-","-",normal,aif,USGS,fall,2
+62,"-","-",normal,aif,USGS,fall,1
+71,"-","-",normal,aif,USGS,fall,0.05
+72,"-","-",normal,aif,USGS,fall,0.05
+73,"-","-",normal,aif,USGS,fall,0.05
+74,"-","-",normal,aif,USGS,fall,0.05
+75,"-","-",normal,aif,USGS,fall,0.05
+76,"-","-",normal,aif,USGS,fall,0.05
+77,"-","-",normal,aif,USGS,fall,0.05
+81,"-","-",normal,aif,USGS,fall,0
+82,"-","-",normal,aif,USGS,fall,0
+83,"-","-",normal,aif,USGS,fall,0
+84,"-","-",normal,aif,USGS,fall,0
+85,"-","-",normal,aif,USGS,fall,0
+91,"-","-",normal,aif,USGS,fall,0
+92,"-","-",normal,aif,USGS,fall,0
+11,"-","-",normal,soil_heat,USGS,winter without snow,0.2
+12,"-","-",normal,soil_heat,USGS,winter without snow,0.25
+13,"-","-",normal,soil_heat,USGS,winter without snow,0.25
+14,"-","-",normal,soil_heat,USGS,winter without snow,0.25
+15,"-","-",normal,soil_heat,USGS,winter without snow,0.25
+16,"-","-",normal,soil_heat,USGS,winter without snow,0.25
+17,"-","-",normal,soil_heat,USGS,winter without snow,0.25
+21,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+22,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+23,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+24,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+31,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+32,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+33,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+41,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+42,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+43,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+51,"-","-",normal,soil_heat,USGS,winter without snow,1
+52,"-","-",normal,soil_heat,USGS,winter without snow,1
+53,"-","-",normal,soil_heat,USGS,winter without snow,1
+54,"-","-",normal,soil_heat,USGS,winter without snow,1
+55,"-","-",normal,soil_heat,USGS,winter without snow,1
+61,"-","-",normal,soil_heat,USGS,winter without snow,0.25
+62,"-","-",normal,soil_heat,USGS,winter without snow,0.25
+71,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+72,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+73,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+74,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+75,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+76,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+77,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+81,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+82,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+83,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+84,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+85,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+91,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+92,"-","-",normal,soil_heat,USGS,winter without snow,0.15
+11,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+12,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+13,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+14,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+15,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+16,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+17,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+21,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+22,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+23,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+24,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+31,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+32,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+33,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+41,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+42,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+43,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+51,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+52,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+53,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+54,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+55,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+61,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+62,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+71,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+72,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+73,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+74,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+75,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+76,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+77,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+81,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+82,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+83,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+84,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+85,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+91,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+92,"-","-",normal,soil_heat,USGS,winter with snow,0.15
+11,"-","-",normal,soil_heat,USGS,spring,0.2
+12,"-","-",normal,soil_heat,USGS,spring,0.25
+13,"-","-",normal,soil_heat,USGS,spring,0.25
+14,"-","-",normal,soil_heat,USGS,spring,0.25
+15,"-","-",normal,soil_heat,USGS,spring,0.25
+16,"-","-",normal,soil_heat,USGS,spring,0.25
+17,"-","-",normal,soil_heat,USGS,spring,0.25
+21,"-","-",normal,soil_heat,USGS,spring,0.15
+22,"-","-",normal,soil_heat,USGS,spring,0.15
+23,"-","-",normal,soil_heat,USGS,spring,0.15
+24,"-","-",normal,soil_heat,USGS,spring,0.15
+31,"-","-",normal,soil_heat,USGS,spring,0.15
+32,"-","-",normal,soil_heat,USGS,spring,0.15
+33,"-","-",normal,soil_heat,USGS,spring,0.15
+41,"-","-",normal,soil_heat,USGS,spring,0.15
+42,"-","-",normal,soil_heat,USGS,spring,0.15
+43,"-","-",normal,soil_heat,USGS,spring,0.15
+51,"-","-",normal,soil_heat,USGS,spring,1
+52,"-","-",normal,soil_heat,USGS,spring,1
+53,"-","-",normal,soil_heat,USGS,spring,1
+54,"-","-",normal,soil_heat,USGS,spring,1
+55,"-","-",normal,soil_heat,USGS,spring,1
+61,"-","-",normal,soil_heat,USGS,spring,0.25
+62,"-","-",normal,soil_heat,USGS,spring,0.25
+71,"-","-",normal,soil_heat,USGS,spring,0.15
+72,"-","-",normal,soil_heat,USGS,spring,0.15
+73,"-","-",normal,soil_heat,USGS,spring,0.15
+74,"-","-",normal,soil_heat,USGS,spring,0.15
+75,"-","-",normal,soil_heat,USGS,spring,0.15
+76,"-","-",normal,soil_heat,USGS,spring,0.15
+77,"-","-",normal,soil_heat,USGS,spring,0.15
+81,"-","-",normal,soil_heat,USGS,spring,0.15
+82,"-","-",normal,soil_heat,USGS,spring,0.15
+83,"-","-",normal,soil_heat,USGS,spring,0.15
+84,"-","-",normal,soil_heat,USGS,spring,0.15
+85,"-","-",normal,soil_heat,USGS,spring,0.15
+91,"-","-",normal,soil_heat,USGS,spring,0.15
+92,"-","-",normal,soil_heat,USGS,spring,0.15
+11,"-","-",normal,soil_heat,USGS,summer,0.2
+12,"-","-",normal,soil_heat,USGS,summer,0.25
+13,"-","-",normal,soil_heat,USGS,summer,0.25
+14,"-","-",normal,soil_heat,USGS,summer,0.25
+15,"-","-",normal,soil_heat,USGS,summer,0.25
+16,"-","-",normal,soil_heat,USGS,summer,0.25
+17,"-","-",normal,soil_heat,USGS,summer,0.25
+21,"-","-",normal,soil_heat,USGS,summer,0.15
+22,"-","-",normal,soil_heat,USGS,summer,0.15
+23,"-","-",normal,soil_heat,USGS,summer,0.15
+24,"-","-",normal,soil_heat,USGS,summer,0.15
+31,"-","-",normal,soil_heat,USGS,summer,0.15
+32,"-","-",normal,soil_heat,USGS,summer,0.15
+33,"-","-",normal,soil_heat,USGS,summer,0.15
+41,"-","-",normal,soil_heat,USGS,summer,0.15
+42,"-","-",normal,soil_heat,USGS,summer,0.15
+43,"-","-",normal,soil_heat,USGS,summer,0.15
+51,"-","-",normal,soil_heat,USGS,summer,1
+52,"-","-",normal,soil_heat,USGS,summer,1
+53,"-","-",normal,soil_heat,USGS,summer,1
+54,"-","-",normal,soil_heat,USGS,summer,1
+55,"-","-",normal,soil_heat,USGS,summer,1
+61,"-","-",normal,soil_heat,USGS,summer,0.25
+62,"-","-",normal,soil_heat,USGS,summer,0.25
+71,"-","-",normal,soil_heat,USGS,summer,0.15
+72,"-","-",normal,soil_heat,USGS,summer,0.15
+73,"-","-",normal,soil_heat,USGS,summer,0.15
+74,"-","-",normal,soil_heat,USGS,summer,0.15
+75,"-","-",normal,soil_heat,USGS,summer,0.15
+76,"-","-",normal,soil_heat,USGS,summer,0.15
+77,"-","-",normal,soil_heat,USGS,summer,0.15
+81,"-","-",normal,soil_heat,USGS,summer,0.15
+82,"-","-",normal,soil_heat,USGS,summer,0.15
+83,"-","-",normal,soil_heat,USGS,summer,0.15
+84,"-","-",normal,soil_heat,USGS,summer,0.15
+85,"-","-",normal,soil_heat,USGS,summer,0.15
+91,"-","-",normal,soil_heat,USGS,summer,0.15
+92,"-","-",normal,soil_heat,USGS,summer,0.15
+11,"-","-",normal,soil_heat,USGS,fall,0.2
+12,"-","-",normal,soil_heat,USGS,fall,0.25
+13,"-","-",normal,soil_heat,USGS,fall,0.25
+14,"-","-",normal,soil_heat,USGS,fall,0.25
+15,"-","-",normal,soil_heat,USGS,fall,0.25
+16,"-","-",normal,soil_heat,USGS,fall,0.25
+17,"-","-",normal,soil_heat,USGS,fall,0.25
+21,"-","-",normal,soil_heat,USGS,fall,0.15
+22,"-","-",normal,soil_heat,USGS,fall,0.15
+23,"-","-",normal,soil_heat,USGS,fall,0.15
+24,"-","-",normal,soil_heat,USGS,fall,0.15
+31,"-","-",normal,soil_heat,USGS,fall,0.15
+32,"-","-",normal,soil_heat,USGS,fall,0.15
+33,"-","-",normal,soil_heat,USGS,fall,0.15
+41,"-","-",normal,soil_heat,USGS,fall,0.15
+42,"-","-",normal,soil_heat,USGS,fall,0.15
+43,"-","-",normal,soil_heat,USGS,fall,0.15
+51,"-","-",normal,soil_heat,USGS,fall,1
+52,"-","-",normal,soil_heat,USGS,fall,1
+53,"-","-",normal,soil_heat,USGS,fall,1
+54,"-","-",normal,soil_heat,USGS,fall,1
+55,"-","-",normal,soil_heat,USGS,fall,1
+61,"-","-",normal,soil_heat,USGS,fall,0.25
+62,"-","-",normal,soil_heat,USGS,fall,0.25
+71,"-","-",normal,soil_heat,USGS,fall,0.15
+72,"-","-",normal,soil_heat,USGS,fall,0.15
+73,"-","-",normal,soil_heat,USGS,fall,0.15
+74,"-","-",normal,soil_heat,USGS,fall,0.15
+75,"-","-",normal,soil_heat,USGS,fall,0.15
+76,"-","-",normal,soil_heat,USGS,fall,0.15
+77,"-","-",normal,soil_heat,USGS,fall,0.15
+81,"-","-",normal,soil_heat,USGS,fall,0.15
+82,"-","-",normal,soil_heat,USGS,fall,0.15
+83,"-","-",normal,soil_heat,USGS,fall,0.15
+84,"-","-",normal,soil_heat,USGS,fall,0.15
+85,"-","-",normal,soil_heat,USGS,fall,0.15
+91,"-","-",normal,soil_heat,USGS,fall,0.15
+92,"-","-",normal,soil_heat,USGS,fall,0.15
